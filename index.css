@@ -32,8 +32,9 @@
 
     .col-m-4 .container {
     font-family: sans-serif;
-    width: 100%;
+
 }
+
 .img1 {
     float: left;
     padding: 20px;
@@ -47,7 +48,7 @@
     font-size: 12px;
     font-family: monospace;
     text-align: center;
-    padding-top: 200px;
+    padding-top: 40px;
     margin-bottom: 20px;
 }
 
@@ -55,4 +56,10 @@
     text-align: center;
     line-height: 40px;
     background-color: lightcyan;
+}
+.row {
+    padding: 0px;
+    width: 100%;
+    margin: 0px;
+
 }
